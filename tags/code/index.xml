@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Code on Wesley&#39;s Blog</title>
+    <link>https://blog.wesleyfranks.com/tags/code/</link>
+    <description>Recent content in Code on Wesley&#39;s Blog</description>
+    <image>
+      <title>Wesley&#39;s Blog</title>
+      <url>https://blog.wesleyfranks.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.wesleyfranks.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.wesleyfranks.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://blog.wesleyfranks.com/posts/my-first-blog-post/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.wesleyfranks.com/posts/my-first-blog-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m following a #youtube #video from #NetworkChuck where he focuses on building a blog in a unique way using code. Something I definitely can get behind as I need to really start documenting my journey as I learn to code and just document what I know as this will eventually be a large part of my main website wesleyfranks.com. Where you will in the future be able to go there and just search for skills and it will pull up posts and videos or posts with videos or videos as posts. I don&amp;rsquo;t know how I&amp;rsquo;m going to do it just yet. Today I&amp;rsquo;m just starting, You^2 if ya know, ya know.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
