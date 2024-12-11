@@ -13,7 +13,7 @@ I'm following a #youtube #video from #NetworkChuck where he focuses on building 
 
 *Forewarning I will say I'm going to do things and then get distracted. I used to be so hard on myself about this but I won't be anymore. This is just who I am. I get distracted and I lose track of what I'm doing but I will do as much as I can to create the necessary habits like I did for my email and finance in the morning. I did that for 30-60 days straight every morning and that helped me form a great habit. Thanks to #AtomicHabits a great book! You should read it!*
 
-![[Pasted image 20241204180958 1.png]]
+!![Image Description](images/Pasted%20image%2020241204180958%201.png)
 
 **What I'm going to be doing**
 
@@ -21,3 +21,8 @@ I'm following a #youtube #video from #NetworkChuck where he focuses on building 
 * I'll post them and then my goal is to create multiple types of content from them. For example, a video from a blog or a blog from a video, then I what to automate the editing of clips or short snippets from blogs to be repurposed into content. 
 
 The challenge is I understand and know all about content strategy. I just get so locked up in my own head that I freeze in fear of the unknown. I'm tired of leading with fear. I want to lead with strength and courage so that I can help raise my daughter to be an amazing person. For that she is my motivation. 
+
+
+TEST
+
+!![Image Description](images/Pasted%20image%2020241211100409.png)
