@@ -3,10 +3,10 @@ import re
 import shutil
 
 # Paths
-posts_dir = "/Users/wesleyfranks/Documents/Obsidian Vault/Posts/"
-attachments_dir = "/Users/wesleyfranks/Documents/Obsidian Vault/Attachments/"
-obsidian_images_dir = "/Users/wesleyfranks/Documents/Obsidian Vault/images/"  # New images folder
-static_images_dir = "/Users/wesleyfranks/Projects/Web/portblog/static/images/"
+posts_dir = "/Users/wesleyfranks/Documents/Obsidian Vault/Posts"
+attachments_dir = "/Users/wesleyfranks/Documents/Obsidian Vault/Attachments"
+obsidian_images_dir = "/Users/wesleyfranks/Documents/Obsidian Vault/images"  # New images folder
+static_images_dir = "/Users/wesleyfranks/Projects/Web/portblog/static/images"
 
 # Ensure the new images folder exists in Obsidian
 os.makedirs(obsidian_images_dir, exist_ok=True)
