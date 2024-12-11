@@ -1,8 +1,7 @@
 
 This is another thing
 
-!![Image Description](images/Attachments/pexels-goumbik-574071.jpg)
-
+![[pexels-luis-gomes-166706-546819 1.jpg]]
 
 test
 
