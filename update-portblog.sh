@@ -8,11 +8,6 @@ cd "$SCRIPT_DIR"
 # Set variables for Obsidian to Hugo copy
 sourcePath="/Users/wesleyfranks/Documents/Obsidian Vault/Posts/"
 destinationPath="/Users/wesleyfranks/Projects/Web/portblog/content/posts/"
-# Path to project
-projectPath="/Users/wesleyfranks/Projects/Web/portblog"
-
-# images.py script path
-imagesPyScriptPath="/Users/wesleyfranks/Projects/Python/Scripts"
 
 # Set GitHub Repo
 myrepo="git@github.com:wesleyfranks/hugo-portblog.git"
@@ -85,10 +80,11 @@ fi
 # Step 6: Commit changes with a dynamic message
 # Ask user for input for the commit message.
 read -p "Enter commit message: " commit_message
-commit_message_date="$(date +'%Y-%m-%d %H:%M:%S')"
-if $commit_message ! = ""; then
-    $commit_message+=$commit_message_date
+commit_message_date="$(date +'%d-%m-%Y %H:%M:%S')"
+if [[ -z "$commit_message" ]]; then
+    commit_message="Updated at $commit_message_date"
 fi
+echo "Commit message: $commit_message"
 
 # Step 7: Push all changes to the main branch
 echo "Deploying to GitHub Main..."

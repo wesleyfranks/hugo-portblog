@@ -7,14 +7,14 @@ tags:
   - code
   - letscode
 ---
-
+!![Image Description](images/Attachments/Pasted%20image%2020241204180958.png)
 
 I'm following a #youtube #video from #NetworkChuck where he focuses on building a blog in a unique way using code. Something I definitely can get behind as I need to really start documenting my journey as I learn to code and just document what I know as this will eventually be a large part of my main website wesleyfranks.com. Where you will in the future be able to go there and just search for skills and it will pull up posts and videos or posts with videos or videos as posts. I don't know how I'm going to do it just yet. Today I'm just starting, You^2 if ya know, ya know. 
 
 *Forewarning I will say I'm going to do things and then get distracted. I used to be so hard on myself about this but I won't be anymore. This is just who I am. I get distracted and I lose track of what I'm doing but I will do as much as I can to create the necessary habits like I did for my email and finance in the morning. I did that for 30-60 days straight every morning and that helped me form a great habit. Thanks to #AtomicHabits a great book! You should read it!*
 
-!![Image Description](images/Pasted%20image%2020241204180958.png)
 
+!![Image Description](images/Attachments/Pasted%20image%2020241204142535.png)
 
 **What I'm going to be doing**
 

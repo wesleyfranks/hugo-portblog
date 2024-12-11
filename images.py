@@ -23,6 +23,10 @@ for filename in os.listdir(posts_dir):
         # Step 2: Find all image links in the format [[image_name.png]]
         images = re.findall(r'\[\[([^]]*\.(?:png|jpg|jpeg))\]\]', content, re.IGNORECASE)
 
+        # Debug: Print found images for the current Markdown file
+        print(f"Processing file: {filename}")
+        print(f"Found images: {images}")
+
         # Step 3: Process each image found
         for image in images:
             # Normalize the image name (replace spaces with %20)
